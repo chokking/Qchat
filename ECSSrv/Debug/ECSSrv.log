@@ -1,0 +1,15 @@
+﻿  cl: 命令行 warning D9035 :“Gm”选项已否决，并将在将来的版本中移除
+  AccountDlg.cpp
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSSrv\AccountDlg.cpp(99,42): error C2065:  “DOMDocument30”: 未声明的标识符
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSSrv\AccountDlg.cpp(122,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSSrv\AccountDlg.cpp(123,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSSrv\AccountDlg.cpp(126,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSSrv\AccountDlg.cpp(439,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSSrv\AccountDlg.cpp(440,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSSrv\AccountDlg.cpp(443,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明

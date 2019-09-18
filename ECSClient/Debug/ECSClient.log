@@ -1,0 +1,91 @@
+﻿  cl: 命令行 warning D9035 :“Gm”选项已否决，并将在将来的版本中移除
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  cl: 命令行 warning D9035 :“Gm”选项已否决，并将在将来的版本中移除
+  SkinScroll.cpp
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SkinScroll.cpp(139,24): warning C4018:  “<=”: 有符号/无符号不匹配
+  SendDlg.cpp
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SkinScroll.cpp(239,14): warning C4018:  “>”: 有符号/无符号不匹配
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(143,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(227,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(230,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(278,1): warning C4996:  'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(2219): message :  参见“gethostbyname”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(279,1): warning C4996:  'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message :  参见“inet_ntoa”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(290,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(354,17): warning C4244:  “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(380,22): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(361,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(556,1): warning C4996:  'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(2219): message :  参见“gethostbyname”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(557,1): warning C4996:  'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message :  参见“inet_ntoa”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\SendDlg.cpp(673,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ScrollParent.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+  RvFileSock.cpp
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ScrollParent.cpp(94,45): warning C4018:  “>=”: 有符号/无符号不匹配
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\RvFileSock.cpp(215,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\RvFileSock.cpp(218,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\RvFileSock.cpp(222,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\RvFileSock.cpp(227,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Message.cpp
+  Login.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(68,1): warning C4996:  'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(2219): message :  参见“gethostbyname”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(69,1): warning C4996:  'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message :  参见“inet_ntoa”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(87,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(88,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(92,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(128,1): warning C4996:  'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(2219): message :  参见“gethostbyname”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(129,1): warning C4996:  'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message :  参见“inet_ntoa”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(176,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(178,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(201,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(202,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\Login.cpp(206,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ECSClientDlg.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ECSClientDlg.cpp(81,44): error C2065:  “DOMDocument30”: 未声明的标识符
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ECSClientDlg.cpp(553,1): warning C4996:  'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(2219): message :  参见“gethostbyname”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ECSClientDlg.cpp(555,1): warning C4996:  'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message :  参见“inet_ntoa”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ECSClientDlg.cpp(571,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ECSClientDlg.cpp(572,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ECSClient.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ECSClient.cpp(56,1): warning C4996:  'CWinApp::Enable3dControlsStatic': CWinApp::Enable3dControlsStatic is no longer needed. You should remove this call.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\atlmfc\include\afxwin.h(5232): message :  参见“CWinApp::Enable3dControlsStatic”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ECSClient.cpp(66,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ClientSock.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ClientSock.cpp(259,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ClientSock.cpp(260,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\C++项目开发实战入门（光盘资源）\Code\07\Project\Q友\ECSClient\ClientSock.cpp(264,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BmpTree.cpp
+  正在生成代码...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
